@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @repath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Machine Learning
+- 🌱 I’m currently learning ... Machine Learning
+- 💞️ I’m looking to collaborate on ... learning... <now a student... in ML>
 - 📫 How to reach me ... repath@repath.in
 
 <!---
